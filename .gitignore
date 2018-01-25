@@ -105,3 +105,6 @@ ENV/
 
 # backup files
 *~
+
+# ignore tool config which can have some passwords...
+ratoni.json
