@@ -1,0 +1,5 @@
+{
+  "mqtt_broker": "192.168.0.2",
+  "mqtt_user": "mosquitto",
+  "mqtt_pass": "sucksblood"
+}
